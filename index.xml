@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Notre-Dame de Paris</title>
+    <title>徐哲的blog</title>
     <link>http://yoursnicholas.github.io/</link>
-    <description>Recent content on Notre-Dame de Paris</description>
+    <description>Recent content on 徐哲的blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jul 2019 09:09:31 +0800</lastBuildDate>
@@ -13,10 +13,19 @@
     
     <item>
       <title>First</title>
-      <link>http://yoursnicholas.github.io/post/first/</link>
+      <link>http://yoursnicholas.github.io/tech/first/</link>
       <pubDate>Wed, 17 Jul 2019 09:09:31 +0800</pubDate>
       
-      <guid>http://yoursnicholas.github.io/post/first/</guid>
+      <guid>http://yoursnicholas.github.io/tech/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://yoursnicholas.github.io/travel/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://yoursnicholas.github.io/travel/first/</guid>
       <description></description>
     </item>
     

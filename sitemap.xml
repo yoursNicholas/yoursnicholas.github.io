@@ -3,20 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://yoursnicholas.github.io/post/first/</loc>
+    <loc>http://yoursnicholas.github.io/tech/first/</loc>
     <lastmod>2019-07-17T09:09:31+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://yoursnicholas.github.io/</loc>
+    <loc>http://yoursnicholas.github.io/tech/</loc>
     <lastmod>2019-07-17T09:09:31+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://yoursnicholas.github.io/post/</loc>
+    <loc>http://yoursnicholas.github.io/</loc>
     <lastmod>2019-07-17T09:09:31+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -27,7 +27,18 @@
   </url>
   
   <url>
+    <loc>http://yoursnicholas.github.io/travel/first/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://yoursnicholas.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursnicholas.github.io/travel/</loc>
     <priority>0</priority>
   </url>
   
